@@ -1,0 +1,193 @@
+[
+    {
+      "id": 1,
+      "title": "Handcrafted Woven Basket",
+      "price": 29.99,
+      "description": "Beautiful handcrafted woven basket made from natural materials, perfect for storage or home decor.",
+      "category": "home decor",
+      "image": "assets/1.jpeg",
+      "rating": { "rate": 4.5, "count": 50 }
+    },
+    {
+      "id": 2,
+      "title": "Soy Wax Scented Candle",
+      "price": 12.99,
+      "description": "Hand-poured soy wax candle with natural scents, long-lasting and eco-friendly.",
+      "category": "candles",
+      "image": "assets/2.jpeg",
+      "rating": { "rate": 4.2, "count": 80 }
+    },
+    {
+      "id": 3,
+      "title": "Natural Handmade Soap Set",
+      "price": 19.99,
+      "description": "Set of 3 handmade soaps crafted with natural ingredients, gentle on the skin and refreshing scents.",
+      "category": "soap",
+      "image": "assets/3.jpeg",
+      "rating": { "rate": 4.8, "count": 65 }
+    },
+    {
+      "id": 4,
+      "title": "Cotton Knitted Throw Blanket",
+      "price": 39.99,
+      "description": "Soft and cozy cotton knitted throw blanket, perfect for adding warmth and style to your home.",
+      "category": "home decor",
+      "image": "assets/4.jpg",
+      "rating": { "rate": 4.6, "count": 90 }
+    },
+    {
+      "id": 5,
+      "title": "Handmade Wooden Serving Tray",
+      "price": 49.99,
+      "description": "Elegant handmade wooden serving tray with intricate designs, ideal for serving guests or as a decorative piece.",
+      "category": "home decor",
+      "image": "assets/5.webp",
+      "rating": { "rate": 4.9, "count": 55 }
+    },
+    {
+      "id": 6,
+      "title": "Handmade Beeswax Candles",
+      "price": 15.99,
+      "description": "100% natural beeswax candles with a soothing honey scent, perfect for relaxation and ambiance.",
+      "category": "candles",
+      "image": "assets/6.jpg",
+      "rating": { "rate": 4.4, "count": 70 }
+    },
+    {
+      "id": 7,
+      "title": "Organic Lavender Soap Bar",
+      "price": 9.99,
+      "description": "Luxurious organic lavender soap bar with moisturizing properties and a calming lavender aroma.",
+      "category": "soap",
+      "image": "assets/7.jpg",
+      "rating": { "rate": 4.7, "count": 120 }
+    },
+    {
+      "id": 8,
+      "title": "Handwoven Cotton Rug",
+      "price": 59.99,
+      "description": "Handwoven cotton rug with vibrant colors and intricate patterns, adds warmth and style to any room.",
+      "category": "home decor",
+      "image": "assets/8.webp",
+      "rating": { "rate": 4.6, "count": 80 }
+    },
+    {
+      "id": 9,
+      "title": "Handmade Aromatherapy Candles",
+      "price": 18.99,
+      "description": "Aromatherapy candles made with essential oils for relaxation and stress relief, perfect for meditation.",
+      "category": "candles",
+      "image": "assets/9.jpeg",
+      "rating": { "rate": 4.3, "count": 60 }
+    },
+    {
+      "id": 10,
+      "title": "Handcrafted Wooden Jewelry Box",
+      "price": 34.99,
+      "description": "Elegant handcrafted wooden jewelry box with velvet lining and compartments for storing jewelry.",
+      "category": "home decor",
+      "image": "assets/10.jpeg",
+      "rating": { "rate": 4.7, "count": 100 }
+    },
+    {
+      "id": 11,
+      "title": "Organic Shea Butter Soap",
+      "price": 12.49,
+      "description": "Organic shea butter soap bar with nourishing properties and a gentle exfoliating texture.",
+      "category": "soap",
+      "image": "assets/11.webp",
+      "rating": { "rate": 4.5, "count": 90 }
+    },
+    {
+      "id": 12,
+      "title": "Handmade Macrame Wall Hanging",
+      "price": 25.99,
+      "description": "Bohemian-style handmade macrame wall hanging, adds a touch of boho chic to your living space.",
+      "category": "home decor",
+      "image": "assets/12.png",
+      "rating": { "rate": 4.8, "count": 110 }
+    },
+    {
+      "id": 13,
+      "title": "Natural Beeswax Lip Balm",
+      "price": 6.99,
+      "description": "Natural beeswax lip balm with moisturizing and soothing properties, keeps lips soft and hydrated.",
+      "category": "personal care",
+      "image": "assets/13.webp",
+      "rating": { "rate": 4.2, "count": 75 }
+    },
+    {
+      "id": 16,
+      "title": "Handwoven Cotton Placemats",
+      "price": 16.99,
+      "description": "Set of 4 handwoven cotton placemats with intricate designs, adds elegance to your dining table.",
+      "category": "home decor",
+      "image": "assets/16.jpg",
+      "rating": { "rate": 4.5, "count": 75 }
+    },
+    {
+      "id": 17,
+      "title": "Aromatherapy Essential Oil Set",
+      "price": 22.99,
+      "description": "Set of 6 essential oils for aromatherapy, includes popular scents like lavender, eucalyptus, and peppermint.",
+      "category": "personal care",
+      "image": "assets/17.jpg",
+      "rating": { "rate": 4.7, "count": 95 }
+    },
+    {
+      "id": 18,
+      "title": "Handcrafted Pottery Mug",
+      "price": 18.49,
+      "description": "Artisan-made pottery mug with unique glaze patterns, perfect for enjoying your favorite beverages.",
+      "category": "home decor",
+      "image": "assets/18.webp",
+      "rating": { "rate": 4.4, "count": 60 }
+    },
+    {
+      "id": 19,
+      "title": "Handmade Natural Bath Bombs",
+      "price": 14.99,
+      "description": "Set of 4 handmade bath bombs with natural ingredients, creates a luxurious spa-like experience at home.",
+      "category": "personal care",
+      "image":"assets/19.jpg" ,
+      "rating": { "rate": 4.6, "count": 80 }
+    },
+    {
+      "id": 20,
+      "title": "Handwoven Macrame Plant Hanger",
+      "price": 9.99,
+      "description": "Boho-style handwoven macrame plant hanger, adds a touch of greenery to your living space with style.",
+      "category": "home decor",
+      "image": "assets/20.webp",
+      "rating": { "rate": 4.8, "count": 70 }
+    },
+    {
+      "id": 21,
+      "title": "Handcrafted Gemstone Necklace",
+      "price": 39.99,
+      "description": "Exquisite handcrafted necklace featuring genuine gemstones, perfect for adding a touch of elegance to any outfit.",
+      "category": "jewelry",
+      "image": "assets/21.jpg",
+      "rating": { "rate": 4.9, "count": 90 }
+    },
+    {
+      "id": 22,
+      "title": "Artisanal Silver Cuff Bracelet",
+      "price": 49.99,
+      "description": "Beautifully crafted silver cuff bracelet made by skilled artisans, a statement piece for any occasion.",
+      "category": "jewelry",
+      "image": "assets/22.jpg",
+      "rating": { "rate": 4.7, "count": 60 }
+    },
+    {
+      "id": 23,
+      "title": "Handcrafted Bamboo Basket",
+      "price": 19.99,
+      "description": "Handwoven bamboo basket with a natural finish, perfect for storage or as a decorative piece.",
+      "category": "home decor",
+      "image": "assets/23.jpg",
+      "rating": { "rate": 4.7, "count": 90 }
+    }
+    
+  ]
+  
